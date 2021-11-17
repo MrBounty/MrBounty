@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MrBounty
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning python and ursina for a personal use and CUDA FORTRAN for professional use
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in Data Science, game development, simulation and programing
+- 🌱 I’m currently learning Python, R, Lua and GDScript
+- 💞️ I’m looking to collaborate on a game project on Godot or a project in the field of data science
 - 📫 How to reach me ...
 
 <!---
