@@ -2,7 +2,7 @@
 - 👀 I’m interested in Data Science, game development, simulation and programing
 - 🌱 I’m currently learning Python, R, Lua and GDScript
 - 💞️ I’m looking to collaborate on a game project on Godot or a project in the field of data science
-- 📫 How to reach me ...
+- 📫 How to reach me : on github or by mail adrien.bouvais@orange.fr
 
 <!---
 MrBounty/MrBounty is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
