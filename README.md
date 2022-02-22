@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @MrBounty
 - 👀 I’m interested in Data Science, game development and programing
 - 🌱 I’m currently learning Python, R, Lua and SQL
-- 💞️ I’m looking to collaborate on a game project on Godot or a project in the field of data science
 - 📫 How to reach me : on github or by mail adrien.bouvais.pro@gmail.com
 
 <!---
