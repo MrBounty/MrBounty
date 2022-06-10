@@ -45,7 +45,8 @@ List of things done as part of the Project Zomboid video game modding.
 ##### UI Library
 UI library is a library make with my mod The Only Cure.  
 Its goal is to be able to make simple UI simply. Allowing to go from 50 to 3 lines of code to display a text. And going from 400 to 30 lines for a more complex window.  
-https://steamcommunity.com/sharedfiles/filedetails/?id=2760035814
+https://steamcommunity.com/sharedfiles/filedetails/?id=2760035814  
+https://github.com/MrBounty/PZ-UI_API
 
 ##### Documentations
 A non-arbitrary list of guides that I have made are for me, to keep the information and be able to come back to it quickly, and for the community and to help them make mods because there is not much documentation and it is a lot of retro engineering.  
