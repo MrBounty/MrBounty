@@ -13,7 +13,6 @@ You can click the Preview link to take a look at your changes.
 [TODO] Add/Update Kaggle notebooks
 
 ## Professional
-
 ### Data science
 #### Santa 2021 
 List of things done for the Kaggle contest [Santa 2021](https://www.kaggle.com/c/santa-2021)
@@ -27,12 +26,16 @@ https://www.kaggle.com/adrienbouvais/ants-for-santa-an-ant-colony-optimization
 A function to check if the submission is correct.  
 https://www.kaggle.com/adrienbouvais/santa-schedule-verification/notebook
 
+------
+
 ## School
 A small thermal simulator, that was my first project. I learn to code with it.  
 https://github.com/MrBounty/EasyThermalSimulation
 
-A small thermal simulator, to learn python.
+A small thermal simulator, to learn python.  
 https://github.com/MrBounty/PythonThermalNodes
+
+------
 
 ## Personal
 
