@@ -31,6 +31,9 @@ https://www.kaggle.com/adrienbouvais/santa-schedule-verification/notebook
 A small thermal simulator, that was my first project. I learn to code with it.  
 https://github.com/MrBounty/EasyThermalSimulation
 
+A small thermal simulator, to learn python.
+https://github.com/MrBounty/PythonThermalNodes
+
 ## Personal
 
 ### Game development
