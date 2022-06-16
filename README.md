@@ -43,7 +43,7 @@ https://github.com/MrBounty/PythonThermalNodes
 
 ## Personal
 ### Ursina
-I made a python object to use in a game engine to display a line chart in real time.  
+Python object to use in a game engine to display a line chart in real time.  
 https://github.com/MrBounty/Graph-for-Ursina
 
 ### Project zomboid mods
