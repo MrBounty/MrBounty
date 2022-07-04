@@ -10,6 +10,8 @@ You can click the Preview link to take a look at your changes.
 
 
 # Portfolio
+[TODO] Add meteorite landings analysis jupy
+
 ## Kaggle
 ### Santa 2021 
 List of things done for the Kaggle contest [Santa 2021](https://www.kaggle.com/c/santa-2021)
