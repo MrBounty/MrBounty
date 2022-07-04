@@ -10,7 +10,7 @@ You can click the Preview link to take a look at your changes.
 
 
 # Portfolio
-[TODO] Add meteorite landings analysis jupy
+[TODO] Add meteorite landings analysis jupyter
 
 ## Kaggle
 ### Santa 2021 
