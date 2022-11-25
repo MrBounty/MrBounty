@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MrBounty
-- 👀 I’m interested in Data Science, game development and programing.
-- 🌱 I’m currently learning Python, R, Lua, SQL and Tensorflow.
+- 👀 I’m interested in Data Science and programing.
+- 🌱 I’m currently learning Python, R, SQL, Keras and Tensorflow.
 - 📫 How to reach me : on github or by mail adrien.bouvais.pro@gmail.com
 
 <!---
