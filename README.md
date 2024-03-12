@@ -1,9 +1,7 @@
-Welcome to my GitHub profile!
+As a fervent enthusiast of technology, I excel in the realm of data science, machine learning, and artificial intelligence, with a particular zeal for data manipulation and coding. My professional journey has taken me through diverse roles, including developing Generative AI and Deep Learning strategies at EY and spearheading data migration initiatives in the banking sector with REVEALS SA in Luxembourg. My expertise is broad, covering Python, SQL, MongoDB, alongside proficiency in cloud computing, ETL processes, and automation technologies like Docker and Apache Airflow.
 
-I am a data and analytics consultant at EY with a passion for utilizing Large Language Model, NLP, and AI to create automation solutions for companies. I am constantly expanding my knowledge and experience in these areas through reading articles and books, creating use cases and proof of concepts, and continuously teaching myself.
+My passion extends beyond the technical; I am deeply interested in the business implications of technology, especially within the banking sector of Luxembourg. This blend of interests positions me uniquely, enabling the integration of IT strategies with overarching business goals to foster innovation and enhance efficiency.
 
-My proficiency in Python, SQL/MongoDB, and Azure, as well as my certification and familiarity with the Agile framework, make me a valuable asset to any team. I have already implemented multiple automation solutions for my company using LLM, and I am excited to explore more opportunities to utilize these technologies in the future.
+While my professional life is steeped in technology, my personal interests add a creative dimension to my profile. I enjoy the art of painting through shaders, exploring the intersection of art and technology by creating visually captivating experiences. This hobby not only satisfies my creative urges but also complements my technical skills, offering a unique perspective on problem-solving and design.
 
-Along with my technical skills, I possess strong soft skills such as communication, presentation, structured thinking, and problem-solving. These skills allow me to effectively collaborate with others and communicate complex technical concepts in a clear and concise manner.
-
-Please feel free to explore my GitHub profile to see some of my projects and code samples. If you are interested in collaborating or have any questions, don't hesitate to reach out using this email: adrien.bouvais.pro@gmail.com
+Always in pursuit of learning and exploring new technologies and business strategies, I am driven to apply my diverse skill set to impactful projects and pioneering solutions.
