@@ -1,7 +1,1 @@
-As a fervent enthusiast of technology, I excel in the realm of data science, machine learning, and artificial intelligence, with a particular zeal for data manipulation and coding. My professional journey has taken me through diverse roles, including developing Generative AI and Deep Learning strategies at EY and spearheading data migration initiatives in the banking sector with REVEALS SA in Luxembourg. My expertise is broad, covering Python, SQL, MongoDB, alongside proficiency in cloud computing, ETL processes, and automation technologies like Docker and Apache Airflow.
 
-My passion extends beyond the technical; I am deeply interested in the business implications of technology, especially within the banking sector of Luxembourg. This blend of interests positions me uniquely, enabling the integration of IT strategies with overarching business goals to foster innovation and enhance efficiency.
-
-While my professional life is steeped in technology, my personal interests add a creative dimension to my profile. I enjoy the art of painting through shaders, exploring the intersection of art and technology by creating visually captivating experiences. This hobby not only satisfies my creative urges but also complements my technical skills, offering a unique perspective on problem-solving and design.
-
-Always in pursuit of learning and exploring new technologies and business strategies, I am driven to apply my diverse skill set to impactful projects and pioneering solutions.
