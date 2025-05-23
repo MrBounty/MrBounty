@@ -7,7 +7,7 @@
 ###
 
 <p align="left">
-🚀 As a <strong>Senior MLOps Engineer at Clavem Group</strong>, I architect, build, and implement comprehensive MLOps platforms from the ground up, primarily for enterprise clients in the financial sector. My core focus is on enabling robust, scalable, and automated machine learning lifecycles – from development and training through to deployment and monitoring in production.
+🚀 As a <strong>Senior MLOps Engineer</strong>, I architect, build, and implement comprehensive MLOps platforms from the ground up, primarily for enterprise clients in the financial sector. My core focus is on enabling robust, scalable, and automated machine learning lifecycles – from development and training through to deployment and monitoring in production.
 <br><br>
 Key areas of my MLOps expertise include:
 <ul>
